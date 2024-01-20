@@ -1,5 +1,5 @@
 # Project: Fingerprint Voting System.
-Implementing a Fingerprint Voting system that includes features such finger authorization, voter entry and exit , and voting management involves several steps within a System Development Life Cycle (SDLC) model. I'll provide a brief overview using an Agile approach, as it is well-suited for projects with changing or evolving requirements.
+Implementing a Fingerprint Voting System that includes features such finger authorization, voter entry and exit , and voting management involves several steps within a System Development Life Cycle (SDLC) model. I'll provide a brief overview using an Agile approach, as it is well-suited for projects with changing or evolving requirements.
 ***
 ## 1. Project Planning:
 • Define the scope of the library reading room management system, outlining features such as seat availability tracking, entry and exit times, and seat management.  
